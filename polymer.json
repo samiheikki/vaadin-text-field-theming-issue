@@ -1,8 +1,8 @@
 {
     "entrypoint": "index.html",
-    "shell": "src/elements-collection/base-elements.js",
+    "shell": "src/my-app.js",
     "sources": [
-      "src/elements-collection/base-elements.js",
+      "src/my-app.js",
       "package.json"
     ],
     "extraDependencies": [
